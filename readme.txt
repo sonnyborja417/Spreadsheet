@@ -1,1 +1,1 @@
-spreadsheet app
+angular localhost:4200
