@@ -1,0 +1,14 @@
+C:\spreadsheet-app\SpreadsheetAPI\SpreadsheetAPI\bin\Debug\netcoreapp2.1\SpreadsheetAPI.deps.json
+C:\spreadsheet-app\SpreadsheetAPI\SpreadsheetAPI\bin\Debug\netcoreapp2.1\SpreadsheetAPI.runtimeconfig.json
+C:\spreadsheet-app\SpreadsheetAPI\SpreadsheetAPI\bin\Debug\netcoreapp2.1\SpreadsheetAPI.runtimeconfig.dev.json
+C:\spreadsheet-app\SpreadsheetAPI\SpreadsheetAPI\bin\Debug\netcoreapp2.1\SpreadsheetAPI.dll
+C:\spreadsheet-app\SpreadsheetAPI\SpreadsheetAPI\bin\Debug\netcoreapp2.1\SpreadsheetAPI.pdb
+C:\spreadsheet-app\SpreadsheetAPI\SpreadsheetAPI\obj\Debug\netcoreapp2.1\SpreadsheetAPI.csprojAssemblyReference.cache
+C:\spreadsheet-app\SpreadsheetAPI\SpreadsheetAPI\obj\Debug\netcoreapp2.1\SpreadsheetAPI.csproj.CoreCompileInputs.cache
+C:\spreadsheet-app\SpreadsheetAPI\SpreadsheetAPI\obj\Debug\netcoreapp2.1\SpreadsheetAPI.RazorAssemblyInfo.cache
+C:\spreadsheet-app\SpreadsheetAPI\SpreadsheetAPI\obj\Debug\netcoreapp2.1\SpreadsheetAPI.RazorAssemblyInfo.cs
+C:\spreadsheet-app\SpreadsheetAPI\SpreadsheetAPI\obj\Debug\netcoreapp2.1\SpreadsheetAPI.AssemblyInfoInputs.cache
+C:\spreadsheet-app\SpreadsheetAPI\SpreadsheetAPI\obj\Debug\netcoreapp2.1\SpreadsheetAPI.AssemblyInfo.cs
+C:\spreadsheet-app\SpreadsheetAPI\SpreadsheetAPI\obj\Debug\netcoreapp2.1\SpreadsheetAPI.RazorTargetAssemblyInfo.cache
+C:\spreadsheet-app\SpreadsheetAPI\SpreadsheetAPI\obj\Debug\netcoreapp2.1\SpreadsheetAPI.dll
+C:\spreadsheet-app\SpreadsheetAPI\SpreadsheetAPI\obj\Debug\netcoreapp2.1\SpreadsheetAPI.pdb
